@@ -76,5 +76,3 @@ python app.py
 3. Click the Search button.
 
 4. View streaming availability in the scrollable results box.
-
-🛠️ Troubleshooting
